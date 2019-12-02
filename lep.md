@@ -13,8 +13,8 @@ $ sudo vi /etc/php-fpm.d/www.conf
 $ php-fpm ( initialize )
 ```
 
-Composer Install 
-curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
+## Composer Install 
+- curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
 - composer install
 
 # SSL setup
